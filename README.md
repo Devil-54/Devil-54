@@ -17,32 +17,40 @@
 <div align="center">
   <table>
     <tr>
-      <td width="260" height="185" align="center">
-        <a href="https://github.com/Devil-54">
-          <img src="https://skillicons.dev/icons?i=github" width="74" alt="GitHub"/>
-          <br/><br/>
-          <img src="https://img.shields.io/badge/GitHub-Devil--54-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=171821" alt="GitHub"/>
-        </a>
-      </td>
-      <td width="260" height="185" align="center">
-        <a href="https://linkedin.com/in/deepakmofficial">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="74" alt="LinkedIn"/>
-          <br/><br/>
-          <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Mishra-2468c9?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2f7ad8" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td width="260" height="185" align="center">
+      <td width="240" height="220" align="center">
         <a href="https://instagram.com/_deepakmishra_">
-          <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="74" alt="Instagram"/>
+          <img src="https://img.icons8.com/fluency/144/instagram-new.png" width="92" height="92" alt="Instagram"/>
           <br/><br/>
-          <img src="https://img.shields.io/badge/Instagram-_deepakmishra_-e4405f?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=c13584" alt="Instagram"/>
+          <b>Instagram</b>
+          <br/>
+          _deepakmishra_
         </a>
       </td>
-      <td width="260" height="185" align="center">
-        <a href="https://x.com/deepak_mis55087">
-          <img src="https://img.icons8.com/ios-filled/100/ffffff/twitterx--v1.png" width="74" alt="X"/>
+      <td width="240" height="220" align="center">
+        <a href="https://linkedin.com/in/deepakmofficial">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="92" height="92" alt="LinkedIn"/>
           <br/><br/>
-          <img src="https://img.shields.io/badge/X-deepak__mis55087-111111?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000" alt="X"/>
+          <b>LinkedIn</b>
+          <br/>
+          Deepak Mishra
+        </a>
+      </td>
+      <td width="240" height="220" align="center">
+        <a href="https://github.com/Devil-54">
+          <img src="https://skillicons.dev/icons?i=github" width="92" height="92" alt="GitHub"/>
+          <br/><br/>
+          <b>GitHub</b>
+          <br/>
+          Devil-54
+        </a>
+      </td>
+      <td width="240" height="220" align="center">
+        <a href="https://x.com/deepak_mis55087">
+          <img src="https://img.icons8.com/color/144/twitterx--v1.png" width="92" height="92" alt="X"/>
+          <br/><br/>
+          <b>X</b>
+          <br/>
+          deepak_mis55087
         </a>
       </td>
     </tr>
@@ -109,15 +117,6 @@
       <td align="center" width="135" height="125"><img src="https://cdn.simpleicons.org/cohere/39B54A" width="64" alt="Cohere"/><br/>Cohere</td>
     </tr>
   </table>
-</div>
-<br/>
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devil-54&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A100FF&icon_color=38BDF8&text_color=E5E7EB" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Devil-54&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A100FF&fire=38BDF8&currStreakLabel=E5E7EB" alt="GitHub Streak"/>
-  <br/>
-  <br/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devil-54&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A100FF&text_color=E5E7EB" alt="Top Languages"/>
 </div>
 <br/>
 <h2 align="center">📬 Contact</h2>
