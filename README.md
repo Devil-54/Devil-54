@@ -7,50 +7,29 @@
     Hello, I'm DEEPAK MISHRA
   </h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A100FF&center=true&vCenter=true&width=720&lines=Data+Science+%26+Analytics+Student;Machine+Learning+Explorer;Python+Developer;Open+Source+Enthusiast" alt="Typing SVG"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-111827?style=for-the-badge&logo=googleanalytics&logoColor=E37400" alt="Data Analytics"/>
-  <img src="https://img.shields.io/badge/Python%20Developer-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python Developer"/>
-  <img src="https://img.shields.io/badge/Open%20Source-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="Open Source"/>
 </div>
 <br/>
 <div align="center">
   <table>
     <tr>
-      <td width="240" height="220" align="center">
+      <td width="240" align="center">
         <a href="https://instagram.com/_deepakmishra_">
-          <img src="https://img.icons8.com/fluency/144/instagram-new.png" width="92" height="92" alt="Instagram"/>
-          <br/><br/>
-          <b>Instagram</b>
-          <br/>
-          _deepakmishra_
+          <img src="./instagram.svg" width="220" height="220" alt="Instagram"/>
         </a>
       </td>
-      <td width="240" height="220" align="center">
+      <td width="240" align="center">
         <a href="https://linkedin.com/in/deepakmofficial">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="92" height="92" alt="LinkedIn"/>
-          <br/><br/>
-          <b>LinkedIn</b>
-          <br/>
-          Deepak Mishra
+          <img src="./linkedin.svg" width="220" height="220" alt="LinkedIn"/>
         </a>
       </td>
-      <td width="240" height="220" align="center">
+      <td width="240" align="center">
         <a href="https://github.com/Devil-54">
-          <img src="https://skillicons.dev/icons?i=github" width="92" height="92" alt="GitHub"/>
-          <br/><br/>
-          <b>GitHub</b>
-          <br/>
-          Devil-54
+          <img src="./github.svg" width="220" height="220" alt="GitHub"/>
         </a>
       </td>
-      <td width="240" height="220" align="center">
+      <td width="240" align="center">
         <a href="https://x.com/deepak_mis55087">
-          <img src="https://img.icons8.com/color/144/twitterx--v1.png" width="92" height="92" alt="X"/>
-          <br/><br/>
-          <b>X</b>
-          <br/>
-          deepak_mis55087
+          <img src="./x.svg" width="220" height="220" alt="X"/>
         </a>
       </td>
     </tr>
@@ -125,12 +104,16 @@
     <tr>
       <td width="260" align="center">
         <a href="mailto:ddeepakmishra2004@gmail.com">
-          <img width="240" src="https://img.shields.io/badge/Gmail-ddeepakmishra2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail"/>
+          <b>Gmail</b>
+          <br/>
+          ddeepakmishra2004@gmail.com
         </a>
       </td>
       <td width="260" align="center">
         <a href="https://linkedin.com/in/deepakmofficial">
-          <img width="240" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn Contact"/>
+          <b>LinkedIn</b>
+          <br/>
+          Connect
         </a>
       </td>
     </tr>
