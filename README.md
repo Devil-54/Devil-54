@@ -13,29 +13,39 @@
   <table>
     <tr>
       <td width="240" align="center">
-        <a href="https://instagram.com/_deepakmishra_">
-          <img src="./instagram.svg" width="220" height="220" alt="Instagram"/>
+        <a href="https://instagram.com/_deepakmishra_" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/><br><br>
+          <b>Instagram</b><br>
+          @_deepakmishra_
         </a>
       </td>
-      <td width="240" align="center">
-        <a href="https://linkedin.com/in/deepakmofficial">
-          <img src="./linkedin.svg" width="220" height="220" alt="LinkedIn"/>
+
+  <td width="240" align="center">
+        <a href="https://linkedin.com/in/deepakmofficial" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/><br><br>
+          <b>LinkedIn</b><br>
+          Deepak Mishra
         </a>
       </td>
-      <td width="240" align="center">
-        <a href="https://github.com/Devil-54">
-          <img src="./github.svg" width="220" height="220" alt="GitHub"/>
+
+  <td width="240" align="center">
+        <a href="https://github.com/Devil-54" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br><br>
+          <b>GitHub</b><br>
+          Devil-54
         </a>
       </td>
-      <td width="240" align="center">
-        <a href="https://x.com/deepak_mis55087">
-          <img src="./x.svg" width="220" height="220" alt="X"/>
+
+  <td width="240" align="center">
+        <a href="https://x.com/deepak_mis55087" target="_blank">
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/><br><br>
+          <b>X (Twitter)</b><br>
+          @deepak_mis55087
         </a>
       </td>
     </tr>
   </table>
 </div>
-<br/>
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
   Analytical and results-driven Data Science student passionate about Machine Learning, AI, Data Analytics, and Backend Development. I enjoy building practical AI applications and solving real-world problems.
